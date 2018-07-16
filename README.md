@@ -7,7 +7,8 @@
 - Redux has not been applied in this application.
 - Little effort has been put into styling.
 
-### Giphy
+### Visual Representation App
+![video-app](./video-app.gif)
 
 
 #### Try it yourself ?
