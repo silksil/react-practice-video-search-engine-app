@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import YTSearch from 'youtube-api-search';
-import lodash from 'lodash';
+import _ from 'lodash';
 import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
@@ -17,7 +17,7 @@ class App extends Component {
       selectedVideo: null,
     };
 
-    this.videoSearch('surfborads');
+    this.videoSearch('surfboads');
   }
 
   videoSearch(term) {
@@ -30,7 +30,7 @@ class App extends Component {
   }
 
   render() {
-    const videoSearch = lodash.debounce((term) => { this.videoSearch(term) }, 300);
+    const videoSearch = _.debounce((term) => { this.videoSearch(term) }, 300);
 
     return (
       <div>
