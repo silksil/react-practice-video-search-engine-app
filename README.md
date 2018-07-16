@@ -5,7 +5,7 @@
 ### Aim
 - Aim of this project was to get a basic understanding of React.
 - Redux has not been applied in this application.
-- Little effort has been put into styling.
+- Little effort has been put into styling, as the main aim of this project was to learn more about React.
 
 ### Visual Representation App
 ![video-app](./video-app.gif)
