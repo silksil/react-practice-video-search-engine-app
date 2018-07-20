@@ -9,7 +9,7 @@
 - Notes in relation to this project can be found throughout my [React cheatsheet folder](https://github.com/silksil/best-practices-cheatsheets/tree/master/client/react).
 
 ### Visual Representation App
-![video-app](./video-app.gif)
+![video-app](./video-app.gif | width=400)
 
 
 #### Try it yourself ?
